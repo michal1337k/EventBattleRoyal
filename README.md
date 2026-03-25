@@ -59,6 +59,8 @@ https://www.youtube.com/watch?v=nGlVJGkyghs
 
 ✔️ Obsługa wielu języków (EN + PL)
 
+✔️ Obsługa RaidMode i Combat (dla hw69.pl)
+
 
 ## 📦 Instalacja
 
